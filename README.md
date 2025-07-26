@@ -1,10 +1,9 @@
 # ✨ DAutoclicker: The Last Autoclicker You'll Need! ✨
 
 
-### 🚀 Unleash Your Productivity with DAutoclicker!
-
 Tired of repetitive clicks? DAutoclicker is your ultimate, free, and open-source solution designed to automate mouse clicks with unparalleled precision and flexibility. Whether you're gaming, testing software, or automating mundane tasks, DAutoclicker empowers you to reclaim your time and focus on what truly matters.
-🌟 Key Features that Set DAutoclicker Apart:
+
+## 🌟 Key Features that Set DAutoclicker Apart:
 
 ⚡️ Precision Click Intervals: Set custom min/max intervals (H:M:S.ms) for randomized or consistent clicking.
 
@@ -22,7 +21,7 @@ Tired of repetitive clicks? DAutoclicker is your ultimate, free, and open-source
 
 💾 Save & Load Settings: Save and load all configurations to/from a .json file.
 
-### 📷 Screenshots:
+## 📷 Screenshots:
 
 ![Alt text](https://i.imgur.com/KIF9QQE.png)
 
