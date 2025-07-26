@@ -1,4 +1,4 @@
-# ✨ DAutoclicker: The Last Autoclicker You'll Ever Need! ✨
+# ✨ DAutoclicker: The Last Autoclicker You'll Need! ✨
 
 
 ### 🚀 Unleash Your Productivity with DAutoclicker!
