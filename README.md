@@ -23,7 +23,9 @@ Tired of repetitive clicks? DAutoclicker is your ultimate, free, and open-source
 
 ## 📷 Screenshots:
 
-![Alt text](https://i.imgur.com/KIF9QQE.png)
+![Alt text](https://i.imgur.com/LYF3KNw.png)
+
+![Alt text](https://i.imgur.com/VhsAbCF.png)
 
 
 
