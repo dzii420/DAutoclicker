@@ -21,11 +21,13 @@ Tired of repetitive clicks? DAutoclicker is your ultimate, free, and open-source
 
 💾 Save & Load Settings: Save and load all configurations to/from a .json file.
 
+🔎 Transparency Slider: Work as normal with the window on top without feeling like the window is in the way.
+
 ## 📷 Screenshots:
 
-![Alt text](https://i.imgur.com/LYF3KNw.png)
+![Alt text](https://i.imgur.com/nFqSl8k.png)
 
-![Alt text](https://i.imgur.com/VhsAbCF.png)
+![Alt text](https://i.imgur.com/1ciIPeN.png)
 
 
 
